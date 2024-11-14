@@ -1,7 +1,9 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-   <H1> TÍTULO 2 </H1>
+   <H1>GIT - TÍTULO 2 </H1>
+
+
 </BODY>
 </HTML>
 publicar seu arquivo na branch main;
